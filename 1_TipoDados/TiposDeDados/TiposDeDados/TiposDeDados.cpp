@@ -7,8 +7,8 @@ using namespace std;
 int main()
 {
 	cout << "Estrutura de Dados - Fatec" << endl;
-	
-	cout << "Tipos Numericos\n";
+	cout << "gabriel martins - 13/08/24\n";
+
 	cout << "===============\n";
 	int i = 10;
 	short s = 18;
